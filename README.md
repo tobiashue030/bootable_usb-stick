@@ -14,3 +14,6 @@ sudo apt install inxi
 
 trying to install ssh to exchange screenshots faster between main pc and ubuntu pc that I need to put into ai (claude) to help me understand and learn:
 Setting up ssh: sudo apt install openssh-server
+Connected both devices via SecureShell and exchanged the screenshot to figure out the specs and if they are good enough for my projects.
+
+Decided to get another RAM bar to double the RAM. 4GiB might nocht be enough if I want to use the Ubuntu GUI and create a Webserver at the same time.
